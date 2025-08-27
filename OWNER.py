@@ -1,9 +1,9 @@
 # متطلبات التنصيب #
 
 #يوزر المطور
-OWNER = ["z1_xa"] 
-OWNER__ID = 6094238403
-OWNER_DEVELOPER = 6094238403
+OWNER = ["dev_blal"] 
+OWNER__ID = 7291869416
+OWNER_DEVELOPER = 7291869416
 OWNER_NAME = "ᯤ‌𝐀𝐁𝐁𝐀𝐒𝐌𝐎𝐎𝟓𝟓ᯤ‌"
 #اسم التي سيظهر على صورة
 infophoto = "Alsayed Playing"
